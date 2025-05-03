@@ -24,14 +24,13 @@ jobs:
       - name: Build Directories and Copy images 🖼️
         run: |
           mkdir site \
-          mkdir site/slides \
           && mkdir site/pdfs \
-          && cp -R slides/img site/slides/img
+          && cp -R slides/img site/img
 
       - name: Build HTML from Marp 🔨
         uses: docker://ghcr.io/marp-team/marp-cli:v4.1.2
         with:
-          args:  --theme-set ./slides/themes/ --html --input-dir slides/ -o site/slides/
+          args:  --theme-set ./slides/themes/ --html --input-dir slides/ -o site/
         env:
           MARP_USER: root:root
 
