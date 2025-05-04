@@ -3,7 +3,7 @@ marp: true
 theme: jobs
 author: Petr Ankudinov
 size: 16:9
-paginate: true
+paginate: false
 math: mathjax
 style: |
     img[alt~="custom"] {
