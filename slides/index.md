@@ -39,10 +39,38 @@ style: |
 
 I'm 12 years old and love to draw.
 
+`Lighthouse, Apr 2025  >>>`
+
+![bg right:40%](img/lighthouse-arp-2025.jpg)
+
 ---
 
-# Lighthouse
+# Kiwi
+
+22.04.2025
+
+![bg right:75% fit](img/kiwi.jpg)
+
+---
+
+# Lemon
 
 April 2025
 
-![bg right fit](img/lighthouse-arp-2025.jpg)
+![bg right:75% fit](img/lemon.jpg)
+
+---
+
+# Fruits
+
+April 2025
+
+![bg right:75% fit](img/fruits.jpg)
+
+---
+
+# Sunflowers
+
+24.04.2025
+
+![bg right](img/sunflowers.jpg)
